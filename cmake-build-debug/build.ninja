@@ -49,14 +49,14 @@ cmake_ninja_workdir = E$:/CodeForces/cmake-build-debug/
 
 build cmake_object_order_depends_target_CodeForces: phony || CMakeFiles/CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/main.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/main.cpp || cmake_object_order_depends_target_CodeForces
-  DEP_FILE = CMakeFiles\CodeForces.dir\main.cpp.obj.d
+build CMakeFiles/CodeForces.dir/Checker.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/Checker.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Checker.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/A._Wrong_Subtraction_(800).cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/A.$ Wrong$ Subtraction$ (800).cpp || cmake_object_order_depends_target_CodeForces
-  DEP_FILE = CMakeFiles\CodeForces.dir\A._Wrong_Subtraction_(800).cpp.obj.d
+build CMakeFiles/CodeForces.dir/B._Square_or_Not.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/B.$ Square$ or$ Not.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\B._Square_or_Not.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
@@ -69,7 +69,7 @@ build CMakeFiles/CodeForces.dir/A._Wrong_Subtraction_(800).cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable CodeForces.exe
 
-build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/main.cpp.obj CMakeFiles/CodeForces.dir/A._Wrong_Subtraction_(800).cpp.obj
+build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/Checker.cpp.obj CMakeFiles/CodeForces.dir/B._Square_or_Not.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CodeForces.dir
