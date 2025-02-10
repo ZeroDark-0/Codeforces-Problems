@@ -1,12 +1,13 @@
 # ninja log v6
 1	53	7609170688663068	CMakeFiles/CodeForces.dir/main.cpp.obj	d50bbc5d179f8bb5
-1	225	7609194814233317	build.ninja	836381e86094d143
+3	71	7609194814513587	CMakeFiles/CodeForces.dir/Checker.cpp.obj	ba2f4703252d80a0
 3	1552	7609024111021001	CMakeFiles/CodeForces.dir/A._Wrong_Subtraction_(800).cpp.obj	a1b8600f63c178b5
-1583	1671	7609188098799175	CodeForces.exe	a9fbf2468e213eac
+2	261	7609210127657602	build.ninja	836381e86094d143
+1564	1651	7609194830119530	CodeForces.exe	75c9ab48e7796b09
 13	1584	7609164898157391	CMakeFiles/CodeForces.dir/A._Watermelon_.cpp.obj	d5f440be3cb2bebe
 3	344	7609173256259190	CMakeFiles/CodeForces.dir/A._Way_Too_Long_Words.cpp.obj	f38beacab999a7db
-0	1581	7609188082961599	CMakeFiles/CodeForces.dir/B._Square_or_Not.cpp.obj	ce19d69c90613f1b
-2	261	7609194814233317	build.ninja	836381e86094d143
-3	71	7609194814513587	CMakeFiles/CodeForces.dir/Checker.cpp.obj	ba2f4703252d80a0
 11	1564	7609194814592650	CMakeFiles/CodeForces.dir/B._Square_or_Not.cpp.obj	ce19d69c90613f1b
-1564	1651	7609194830119530	CodeForces.exe	75c9ab48e7796b09
+1	229	7609210127657602	build.ninja	836381e86094d143
+0	66	7609210127870319	CMakeFiles/CodeForces.dir/Checker.cpp.obj	ba2f4703252d80a0
+8	1652	7609210127950384	CMakeFiles/CodeForces.dir/2008B._Square_or_Not.cpp.obj	de7de50ecf6c545a
+1652	1741	7609210144381155	CodeForces.exe	bd364033d33d7936
