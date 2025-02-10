@@ -4,4 +4,5 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces main.cpp
+        "A. Wrong Subtraction (800).cpp"
 )
