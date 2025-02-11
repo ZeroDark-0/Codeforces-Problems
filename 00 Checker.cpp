@@ -1,6 +1,6 @@
 // experimental
 /*
- *B. Square or Not
+ *2008B. Square or Not
  *
  *
  *
