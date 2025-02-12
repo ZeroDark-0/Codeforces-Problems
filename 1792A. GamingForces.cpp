@@ -4,18 +4,25 @@
 
 using namespace std;
 
-int main() {
+int main(int argc, char const *argv[]) {
     int t;
     cin >> t;
     while (t--) {
-        int n;
+        long long n;
         cin >> n;
-        int count1 = 0;
-        for (int i = 0; i < n; ++i) {
-            int x;
-            cin >> x;
-            count1 += (x == 1);
+        long long ans = n;
+        vector<long long> h;
+        for(int i = 0;i<n;i++) {
+            long input;
+            cin >> input;
+            h.push_back(input);
         }
-        cout << n - count1 / 2 << '\n';
+        std :: sort(h.begin(),h.end());
+        for(long long i = 1;i<n;i++) {
+            if(h[i] == 1) {
+                ans--;
+            }
+        }
+        cout << ans << endl;
     }
 }
