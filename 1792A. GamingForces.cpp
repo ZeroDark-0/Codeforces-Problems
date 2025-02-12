@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
@@ -8,21 +7,21 @@ int main(int argc, char const *argv[]) {
     int t;
     cin >> t;
     while (t--) {
-        long long n;
+        int n;
         cin >> n;
-        long long ans = n;
-        vector<long long> h;
+        vector<int> h;
         for(int i = 0;i<n;i++) {
-            long input;
+            int input;
             cin >> input;
             h.push_back(input);
         }
-        std :: sort(h.begin(),h.end());
-        for(long long i = 1;i<n;i++) {
-            if(h[i] == 1) {
-                ans--;
+
+        int count1 = 0;
+        for (int i = 0;i< n;i++) {
+            if(h[i]==1) {
+                count1++;
             }
         }
-        cout << ans << endl;
+        cout << n - count1/2 << endl;
     }
 }
