@@ -1,21 +1,15 @@
 # ninja log v6
 1	53	7609170688663068	CMakeFiles/CodeForces.dir/main.cpp.obj	d50bbc5d179f8bb5
-1	229	7610019144542666	build.ninja	836381e86094d143
+1	229	7610532701000969	build.ninja	836381e86094d143
 3	1552	7609024111021001	CMakeFiles/CodeForces.dir/A._Wrong_Subtraction_(800).cpp.obj	a1b8600f63c178b5
 0	66	7609210127870319	CMakeFiles/CodeForces.dir/Checker.cpp.obj	ba2f4703252d80a0
-440	528	7610007479244639	CodeForces.exe	96c674f97ee0861c
+1657	1743	7610023017686372	CodeForces.exe	70dcde4c55e10e41
 13	1584	7609164898157391	CMakeFiles/CodeForces.dir/A._Watermelon_.cpp.obj	d5f440be3cb2bebe
 3	344	7609173256259190	CMakeFiles/CodeForces.dir/A._Way_Too_Long_Words.cpp.obj	f38beacab999a7db
 8	1652	7609210127950384	CMakeFiles/CodeForces.dir/2008B._Square_or_Not.cpp.obj	de7de50ecf6c545a
 11	1564	7609194814592650	CMakeFiles/CodeForces.dir/B._Square_or_Not.cpp.obj	ce19d69c90613f1b
 0	70	7609564935611824	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
 4	440	7610007474880731	CMakeFiles/CodeForces.dir/939A._Love_Triangle.cpp.obj	977d8c3cffb495d4
-1	229	7610019144542666	build.ninja	836381e86094d143
-0	316	7610019144758579	CMakeFiles/CodeForces.dir/1A._Theatre_Square.cpp.obj	f175587d641b03ae
-316	402	7610019147912154	CodeForces.exe	70dcde4c55e10e41
-3	313	7610021375021660	CMakeFiles/CodeForces.dir/1A._Theatre_Square.cpp.obj	f175587d641b03ae
-313	401	7610021378120273	CodeForces.exe	70dcde4c55e10e41
-3	319	7610021463054979	CMakeFiles/CodeForces.dir/1A._Theatre_Square.cpp.obj	f175587d641b03ae
-319	407	7610021466212471	CodeForces.exe	70dcde4c55e10e41
 3	1656	7610023001128277	CMakeFiles/CodeForces.dir/1A._Theatre_Square.cpp.obj	f175587d641b03ae
-1657	1743	7610023017686372	CodeForces.exe	70dcde4c55e10e41
+2	491	7610549375627065	CMakeFiles/CodeForces.dir/1792A._GamingForces.cpp.obj	b7da85fcdbb295da
+493	606	7610549380532519	CodeForces.exe	15b3c48e44b9766b
