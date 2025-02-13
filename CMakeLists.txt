@@ -4,7 +4,8 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp"
-        "282A. Bit++.cpp"
+        "158A. Next Round.cpp"
+        #        "282A. Bit++.cpp"
         #        "231A. Team.cpp"
         #        "1792A. GamingForces.cpp"
         #        "939A. Love Triangle.cpp"

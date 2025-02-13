@@ -1,9 +1,9 @@
 # ninja log v6
 1	53	7609170688663068	CMakeFiles/CodeForces.dir/main.cpp.obj	d50bbc5d179f8bb5
-1	229	7610914047552555	build.ninja	836381e86094d143
+1	229	7611783127699356	build.ninja	836381e86094d143
 3	1552	7609024111021001	CMakeFiles/CodeForces.dir/A._Wrong_Subtraction_(800).cpp.obj	a1b8600f63c178b5
 0	66	7609210127870319	CMakeFiles/CodeForces.dir/Checker.cpp.obj	ba2f4703252d80a0
-1609	1695	7610910605510505	CodeForces.exe	7070cabd4097bc19
+340	431	7610919438656071	CodeForces.exe	a70f012ab1e9b575
 13	1584	7609164898157391	CMakeFiles/CodeForces.dir/A._Watermelon_.cpp.obj	d5f440be3cb2bebe
 3	344	7609173256259190	CMakeFiles/CodeForces.dir/A._Way_Too_Long_Words.cpp.obj	f38beacab999a7db
 8	1652	7609210127950384	CMakeFiles/CodeForces.dir/2008B._Square_or_Not.cpp.obj	de7de50ecf6c545a
@@ -14,4 +14,15 @@
 3	443	7610893653043077	CMakeFiles/CodeForces.dir/1792A._GamingForces.cpp.obj	b7da85fcdbb295da
 2	1608	7610910589434404	CMakeFiles/CodeForces.dir/231A._Team.cpp.obj	5e30e7d7ca387e58
 1	339	7610919435269042	CMakeFiles/CodeForces.dir/282A._Bit++.cpp.obj	6a3822f111f5212e
-340	431	7610919438656071	CodeForces.exe	a70f012ab1e9b575
+2	441	7611790299544293	CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj	20a801a2fb89dd26
+442	571	7611790303945302	CodeForces.exe	aef013bccb63391c
+3	321	7611790707920844	CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj	20a801a2fb89dd26
+321	405	7611790711111179	CodeForces.exe	aef013bccb63391c
+3	317	7611791223766024	CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj	20a801a2fb89dd26
+317	404	7611791226912486	CodeForces.exe	aef013bccb63391c
+2	308	7611792120753498	CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj	20a801a2fb89dd26
+309	396	7611792123813303	CodeForces.exe	aef013bccb63391c
+2	334	7611793113426336	CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj	20a801a2fb89dd26
+334	555	7611793116734252	CodeForces.exe	aef013bccb63391c
+2	311	7611793312257776	CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj	20a801a2fb89dd26
+311	396	7611793315345749	CodeForces.exe	aef013bccb63391c
