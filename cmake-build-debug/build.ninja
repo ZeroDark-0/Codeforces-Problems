@@ -55,8 +55,14 @@ build CMakeFiles/CodeForces.dir/00_Checker.cpp.obj: CXX_COMPILER__CodeForces_uns
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/158A.$ Next$ Round.cpp || cmake_object_order_depends_target_CodeForces
-  DEP_FILE = CMakeFiles\CodeForces.dir\158A._Next_Round.cpp.obj.d
+build CMakeFiles/CodeForces.dir/Tester.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/Tester.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\Tester.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/2044C._Hard_Problem.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/2044C.$ Hard$ Problem.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\2044C._Hard_Problem.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
@@ -69,7 +75,7 @@ build CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj: CXX_COMPILER__CodeForc
 #############################################
 # Link the executable CodeForces.exe
 
-build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/158A._Next_Round.cpp.obj
+build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/Tester.cpp.obj CMakeFiles/CodeForces.dir/2044C._Hard_Problem.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CodeForces.dir
