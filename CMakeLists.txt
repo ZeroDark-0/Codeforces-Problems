@@ -4,7 +4,8 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp" "tester.cpp"
-#        "96A. Football.cpp"
+#        "318A. Even Odds.cpp"
+        #        "96A. Football.cpp"
         #        "266A. Stones on the table.cpp"
         #        "200B. Drinks.cpp"
         #        "236A. Boy or Girl.cpp"
