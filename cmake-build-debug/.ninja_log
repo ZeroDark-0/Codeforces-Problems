@@ -1,10 +1,11 @@
 # ninja log v6
-1	250	7625508347269549	build.ninja	836381e86094d143
+1	250	7626351512395452	build.ninja	836381e86094d143
 4	341	7624679722716957	CMakeFiles/CodeForces.dir/1525A._Potion-making.cpp.obj	7b6c8057d592437
-342	444	7624679726097478	CodeForces.exe	369220a76605bf64
+1958	2071	7625511992497757	CodeForces.exe	7318bc9768fa0643
+0	1956	7625511972921553	CMakeFiles/CodeForces.dir/22A._Second_Order_Statistics.cpp.obj	13b525e401cfeba
 1	180	7622971645100058	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
 10	193	7622971645183800	CMakeFiles/CodeForces.dir/Tester.cpp.obj	641709c803336c38
 1	577	7622974174973191	CMakeFiles/CodeForces.dir/1881A._Don't_Try_to_Count.cpp.obj	b6deb19a6a693b09
 3	557	7623808120203731	CMakeFiles/CodeForces.dir/339A._Helpful_Maths.cpp.obj	50d97f6b6cc00aa6
-0	1956	7625511972921553	CMakeFiles/CodeForces.dir/22A._Second_Order_Statistics.cpp.obj	13b525e401cfeba
-1958	2071	7625511992497757	CodeForces.exe	7318bc9768fa0643
+1	1756	7626372255174321	CMakeFiles/CodeForces.dir/1517A._Sum_of_2050.cpp.obj	5cb27059d4c48e13
+1758	1878	7626372272753280	CodeForces.exe	c9e2bca3b4d06269
