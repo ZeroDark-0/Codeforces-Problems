@@ -1,7 +1,7 @@
 # ninja log v6
-1	250	7627944775430345	build.ninja	836381e86094d143
+1	221	7628880430776591	build.ninja	836381e86094d143
 4	341	7624679722716957	CMakeFiles/CodeForces.dir/1525A._Potion-making.cpp.obj	7b6c8057d592437
-1687	1790	7627241509529670	CodeForces.exe	bdcbca70d4043a3
+476	558	7628840301909727	CodeForces.exe	f5a68a38718c70cb
 0	1956	7625511972921553	CMakeFiles/CodeForces.dir/22A._Second_Order_Statistics.cpp.obj	13b525e401cfeba
 1	180	7622971645100058	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
 10	193	7622971645183800	CMakeFiles/CodeForces.dir/Tester.cpp.obj	641709c803336c38
@@ -9,9 +9,12 @@
 3	557	7623808120203731	CMakeFiles/CodeForces.dir/339A._Helpful_Maths.cpp.obj	50d97f6b6cc00aa6
 1	1756	7626372255174321	CMakeFiles/CodeForces.dir/1517A._Sum_of_2050.cpp.obj	5cb27059d4c48e13
 0	1685	7627241492651456	CMakeFiles/CodeForces.dir/1283A._Minutes_Before_the_New_Year.cpp.obj	e8e61ce382c58016
-1	875	7627969314616308	CMakeFiles/CodeForces.dir/1853A._Desorting.cpp.obj	7621bb9a9d3a50fb
-876	992	7627969323375033	CodeForces.exe	f5a68a38718c70cb
-3	560	7627973682023803	CMakeFiles/CodeForces.dir/1853A._Desorting.cpp.obj	7621bb9a9d3a50fb
-561	653	7627973687605774	CodeForces.exe	f5a68a38718c70cb
-3	390	7627974489725227	CMakeFiles/CodeForces.dir/1853A._Desorting.cpp.obj	7621bb9a9d3a50fb
-390	486	7627974493599332	CodeForces.exe	f5a68a38718c70cb
+1	475	7628840297157342	CMakeFiles/CodeForces.dir/1853A._Desorting.cpp.obj	7621bb9a9d3a50fb
+0	1589	7628890988316600	CMakeFiles/CodeForces.dir/1857A._Array_Coloring.cpp.obj	1ad82794e80bd177
+1591	1690	7628891004223619	CodeForces.exe	d555308766e98fd6
+4	1672	7628891507901360	CMakeFiles/CodeForces.dir/1857A._Array_Coloring.cpp.obj	1ad82794e80bd177
+1672	1762	7628891524584185	CodeForces.exe	d555308766e98fd6
+3	1642	7628891684780346	CMakeFiles/CodeForces.dir/1857A._Array_Coloring.cpp.obj	1ad82794e80bd177
+1642	1732	7628891701158402	CodeForces.exe	d555308766e98fd6
+4	1504	7628894350191423	CMakeFiles/CodeForces.dir/1857A._Array_Coloring.cpp.obj	1ad82794e80bd177
+1505	1592	7628894365196729	CodeForces.exe	d555308766e98fd6
