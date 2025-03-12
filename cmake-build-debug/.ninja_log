@@ -1,7 +1,7 @@
 # ninja log v6
 4	1817	7633263379400990	CMakeFiles/CodeForces.dir/1883B._Chemistry.cpp.obj	7b27fd7f1fcbd7b3
 4	341	7624679722716957	CMakeFiles/CodeForces.dir/1525A._Potion-making.cpp.obj	7b6c8057d592437
-1	221	7634159631391482	build.ninja	836381e86094d143
+1	221	7635023081065458	build.ninja	836381e86094d143
 0	1956	7625511972921553	CMakeFiles/CodeForces.dir/22A._Second_Order_Statistics.cpp.obj	13b525e401cfeba
 316	416	7634149873097186	CodeForces.exe	e0b4efcff187c1e6
 1	51	7634126682153362	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
@@ -21,3 +21,10 @@
 4	1650	7634093553859847	CMakeFiles/CodeForces.dir/Contest_Problems/2074A._Draw_a_Square.cpp.obj	c7bf7741f990bbf4
 3	315	7634149869974108	CMakeFiles/CodeForces.dir/Contest_Problems/2074C._XOR_and_Triangle.cpp.obj	f24ce9bae3dab64c
 1	1752	7634120724512837	CMakeFiles/CodeForces.dir/Contest_Problems/2074D._Counting_Points.cpp.obj	8430d8ccb3bce792
+1	322	7635026062635460	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
+10	1778	7635026062730551	CMakeFiles/CodeForces.dir/1883B._Chemistry.cpp.obj	7b27fd7f1fcbd7b3
+1780	1914	7635026080431372	CodeForces.exe	4d73eb2feef66bba
+4	287	7635035647870692	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
+287	385	7635035650692866	CodeForces.exe	4d73eb2feef66bba
+3	1960	7635040360398997	CMakeFiles/CodeForces.dir/1883B._Chemistry.cpp.obj	7b27fd7f1fcbd7b3
+1960	2068	7635040379971444	CodeForces.exe	4d73eb2feef66bba

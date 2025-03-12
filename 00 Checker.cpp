@@ -6,12 +6,8 @@
  *1974A. Phone Desktop (coded)
  *263A. Beautiful Matrix
  *1883B. Chemistry
- *
  *2074D. Counting Points (coded)
  *2074C. XOR and Triangle (coded)
- *
- *
- *
  *
  *
  *

@@ -4,6 +4,7 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp" "tester.cpp"
+#        "1883B. Chemistry.cpp"
         #        "405A. Gravity Flip.cpp"
         #        "1873B. Good Kid.cpp"
         #        "2070A. FizzBuzz Remixed.cpp"
