@@ -8,7 +8,7 @@
  *1883B. Chemistry
  *2074D. Counting Points (coded)
  *2074C. XOR and Triangle (coded)
- *
+ *1807D. Odd Queries (coded)
  *
  *
  *
