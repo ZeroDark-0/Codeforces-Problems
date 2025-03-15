@@ -9,6 +9,7 @@
  *2074D. Counting Points (coded)
  *2074C. XOR and Triangle (coded)
  *1807D. Odd Queries (coded)
+ *2082B. Floor or Ceil (coded error)
  *
  *
  *
