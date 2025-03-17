@@ -10,7 +10,7 @@
  *2074C. XOR and Triangle (coded)
  *1807D. Odd Queries (coded)
  *2082B. Floor or Ceil (coded error)
- *
+ *1703C. Cypher
  *
  *
  *

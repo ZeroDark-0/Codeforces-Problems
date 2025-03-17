@@ -4,7 +4,8 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp" "tester.cpp"
-#        "1927A. Make it White.cpp"
+#        "1703B. ICPC Balloons.cpp"
+        #        "1927A. Make it White.cpp"
         #        "1167A. Telephone Number.cpp"
         #        "208A. Dubstep.cpp"
         #        "1807D. Odd Queries.cpp"
