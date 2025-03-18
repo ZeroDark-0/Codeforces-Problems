@@ -61,8 +61,8 @@ build CMakeFiles/CodeForces.dir/Tester.cpp.obj: CXX_COMPILER__CodeForces_unscann
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/1703B._ICPC_Balloons.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/1703B.$ ICPC$ Balloons.cpp || cmake_object_order_depends_target_CodeForces
-  DEP_FILE = CMakeFiles\CodeForces.dir\1703B._ICPC_Balloons.cpp.obj.d
+build CMakeFiles/CodeForces.dir/1496A._Split_it!.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/1496A.$ Split$ it!.cpp || cmake_object_order_depends_target_CodeForces
+  DEP_FILE = CMakeFiles\CodeForces.dir\1496A._Split_it!.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
@@ -75,7 +75,7 @@ build CMakeFiles/CodeForces.dir/1703B._ICPC_Balloons.cpp.obj: CXX_COMPILER__Code
 #############################################
 # Link the executable CodeForces.exe
 
-build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/Tester.cpp.obj CMakeFiles/CodeForces.dir/1703B._ICPC_Balloons.cpp.obj
+build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/Tester.cpp.obj CMakeFiles/CodeForces.dir/1496A._Split_it!.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CodeForces.dir
