@@ -4,7 +4,8 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp" "tester.cpp"
-#        "1496A. Split it!.cpp"
+#        "2078A. Final Verdict.cpp"
+        #        "1496A. Split it!.cpp"
         #        "1005B. Delete from the Left.cpp"
         #        "1986A. X Axis.cpp"
         #        "1703B. ICPC Balloons.cpp"
