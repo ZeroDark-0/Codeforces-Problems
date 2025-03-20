@@ -1,8 +1,8 @@
 # ninja log v6
-1	220	7641067592445058	build.ninja	836381e86094d143
+1	220	7641825931020605	build.ninja	836381e86094d143
 3	1960	7635040360398997	CMakeFiles/CodeForces.dir/1883B._Chemistry.cpp.obj	7b27fd7f1fcbd7b3
 4	341	7624679722716957	CMakeFiles/CodeForces.dir/1525A._Potion-making.cpp.obj	7b6c8057d592437
-1617	1710	7640108369281728	CodeForces.exe	2ebf33d3edba88de
+375	478	7641070669704080	CodeForces.exe	5b20750665f157fc
 0	1956	7625511972921553	CMakeFiles/CodeForces.dir/22A._Second_Order_Statistics.cpp.obj	13b525e401cfeba
 10	180	7639323734490216	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
 10	193	7622971645183800	CMakeFiles/CodeForces.dir/Tester.cpp.obj	641709c803336c38
@@ -30,7 +30,16 @@
 3	444	7640056670424868	CMakeFiles/CodeForces.dir/1986A._X_Axis.cpp.obj	bbf44f9e82f75033
 3	1733	7640080315533537	CMakeFiles/CodeForces.dir/1005B._Delete_from_the_Left.cpp.obj	a9fd5031f2ec9502
 3	1617	7640108353139195	CMakeFiles/CodeForces.dir/1496A._Split_it!.cpp.obj	c9b466e777714609
-1	434	7641070031647673	CMakeFiles/CodeForces.dir/2078A._Final_Verdict.cpp.obj	2bc90b8d92160f93
-435	564	7641070035991973	CodeForces.exe	5b20750665f157fc
 3	375	7641070665982388	CMakeFiles/CodeForces.dir/2078A._Final_Verdict.cpp.obj	2bc90b8d92160f93
-375	478	7641070669704080	CodeForces.exe	5b20750665f157fc
+2	1652	7641828209843190	CMakeFiles/CodeForces.dir/2062B._Clockwork.cpp.obj	a93179a010edae46
+1654	1750	7641828226362737	CodeForces.exe	537caf1a6998dd5
+4	1627	7641828424407092	CMakeFiles/CodeForces.dir/2062B._Clockwork.cpp.obj	a93179a010edae46
+1627	1721	7641828440631175	CodeForces.exe	537caf1a6998dd5
+4	1597	7641828911953803	CMakeFiles/CodeForces.dir/2062B._Clockwork.cpp.obj	a93179a010edae46
+1597	1685	7641828927891906	CodeForces.exe	537caf1a6998dd5
+4	1764	7641829059180780	CMakeFiles/CodeForces.dir/2062B._Clockwork.cpp.obj	a93179a010edae46
+1764	1851	7641829076778497	CodeForces.exe	537caf1a6998dd5
+4	1665	7641829195669358	CMakeFiles/CodeForces.dir/2062B._Clockwork.cpp.obj	a93179a010edae46
+1665	1758	7641829212277410	CodeForces.exe	537caf1a6998dd5
+4	1680	7641830580424359	CMakeFiles/CodeForces.dir/2062B._Clockwork.cpp.obj	a93179a010edae46
+1680	1846	7641830597185969	CodeForces.exe	537caf1a6998dd5
