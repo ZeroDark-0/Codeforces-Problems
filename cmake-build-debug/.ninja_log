@@ -1,5 +1,13 @@
 # ninja log v6
-1	236	7910658391654400	build.ninja	836381e86094d143
+1	236	7910661562692007	build.ninja	836381e86094d143
 1616	1692	7816922507741438	CodeForces.exe	3af67ae31c47148b
 1	275	7662621366126359	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
 5	1616	7816922491635988	CMakeFiles/CodeForces.dir/A/116A._Tram.cpp.obj	1375dc649495d8b8
+1	179	7910661562692007	build.ninja	836381e86094d143
+1	179	7910661562692007	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
+17	66	7910661563607182	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
+19	67	7910661563640526	CMakeFiles/CodeForces.dir/tester.cpp.obj	de0cd9f253dcdfd0
+22	1704	7910661563664048	CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj	58e153e316736a16
+1704	1839	7910661580484527	CodeForces.exe	a5c2a0df1b8da9b1
+3	1624	7910662184117342	CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj	58e153e316736a16
+1624	1704	7910662200330657	CodeForces.exe	a5c2a0df1b8da9b1
