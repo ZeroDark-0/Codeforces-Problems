@@ -63,9 +63,37 @@ build CMakeFiles/CodeForces.dir/tester.cpp.obj: CXX_COMPILER__CodeForces_unscann
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/C.$ Simple$ Calculator.cpp || cmake_object_order_depends_target_CodeForces
+build CMakeFiles/CodeForces.dir/D/D._Difference.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/D/D.$ Difference.cpp || cmake_object_order_depends_target_CodeForces
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\CodeForces.dir\C._Simple_Calculator.cpp.obj.d
+  DEP_FILE = CMakeFiles\CodeForces.dir\D\D._Difference.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir\D
+
+build CMakeFiles/CodeForces.dir/E/E._Area_of_a_Circle.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/E/E.$ Area$ of$ a$ Circle.cpp || cmake_object_order_depends_target_CodeForces
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\CodeForces.dir\E\E._Area_of_a_Circle.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir\E
+
+build CMakeFiles/CodeForces.dir/R/R._Age_in_Days.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/R/R.$ Age$ in$ Days.cpp || cmake_object_order_depends_target_CodeForces
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\CodeForces.dir\R\R._Age_in_Days.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir\R
+
+build CMakeFiles/CodeForces.dir/G._Summation_from_1_to_N.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/G.$ Summation$ from$ 1$ to$ N.cpp || cmake_object_order_depends_target_CodeForces
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\CodeForces.dir\G._Summation_from_1_to_N.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CodeForces.dir
+  OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
+
+build CMakeFiles/CodeForces.dir/Y._The_last_2_digits.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/Y.$ The$ last$ 2$ digits.cpp || cmake_object_order_depends_target_CodeForces
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\CodeForces.dir\Y._The_last_2_digits.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
@@ -78,7 +106,7 @@ build CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj: CXX_COMPILER__Code
 #############################################
 # Link the executable CodeForces.exe
 
-build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/tester.cpp.obj CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj
+build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/tester.cpp.obj CMakeFiles/CodeForces.dir/D/D._Difference.cpp.obj CMakeFiles/CodeForces.dir/E/E._Area_of_a_Circle.cpp.obj CMakeFiles/CodeForces.dir/R/R._Age_in_Days.cpp.obj CMakeFiles/CodeForces.dir/G._Summation_from_1_to_N.cpp.obj CMakeFiles/CodeForces.dir/Y._The_last_2_digits.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
