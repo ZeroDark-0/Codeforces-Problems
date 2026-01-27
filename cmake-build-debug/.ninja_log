@@ -1,8 +1,14 @@
 # ninja log v6
-1	179	7911472579593182	build.ninja	836381e86094d143
-2109	2212	7911454556580045	CodeForces.exe	de725143fe0e7481
+1	179	7912159859572742	build.ninja	836381e86094d143
 20	2108	7911454535693350	CMakeFiles/CodeForces.dir/D._Difference.cpp.obj	ae1ca7af03cb936d
+2109	2212	7911454556580045	CodeForces.exe	de725143fe0e7481
 17	66	7910661563607182	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
-1	179	7911472579551606	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
 3	1624	7910662184117342	CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj	58e153e316736a16
+1	179	7912159859551111	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
 19	67	7910661563640526	CMakeFiles/CodeForces.dir/tester.cpp.obj	de0cd9f253dcdfd0
+1	190	7912159859572742	build.ninja	836381e86094d143
+1	190	7912159859572742	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
+18	2086	7912159860558953	CMakeFiles/CodeForces.dir/M._Capital_or_Small_or_Digit.cpp.obj	e751e039a37409ff
+2088	2365	7912159881261817	CodeForces.exe	4d1c5772c7795bfd
+3	1629	7912160563660554	CMakeFiles/CodeForces.dir/M._Capital_or_Small_or_Digit.cpp.obj	e751e039a37409ff
+1629	1701	7912160579919568	CodeForces.exe	4d1c5772c7795bfd
