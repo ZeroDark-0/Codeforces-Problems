@@ -5,6 +5,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp" "tester.cpp"
 
-        "M/M. Capital or Small or Digit.cpp"
 
 )
