@@ -1,13 +1,19 @@
 # ninja log v6
-18	190	7931229361114745	build.ninja	836381e86094d143
-20	2108	7911454535693350	CMakeFiles/CodeForces.dir/D._Difference.cpp.obj	ae1ca7af03cb936d
+18	190	7941547744283441	build.ninja	836381e86094d143
 3	1629	7912160563660554	CMakeFiles/CodeForces.dir/M._Capital_or_Small_or_Digit.cpp.obj	e751e039a37409ff
-1612	1681	7931227901770242	CodeForces.exe	cc4c3f41bec2fc31
+1626	1707	7941544884385095	CodeForces.exe	98ff97c972c0e4c3
+20	2108	7911454535693350	CMakeFiles/CodeForces.dir/D._Difference.cpp.obj	ae1ca7af03cb936d
 17	66	7910661563607182	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
-18	190	7931229361094699	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
+18	190	7941547744273161	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
 3	1624	7910662184117342	CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj	58e153e316736a16
 19	67	7910661563640526	CMakeFiles/CodeForces.dir/tester.cpp.obj	de0cd9f253dcdfd0
 17	2029	7931217811304624	CMakeFiles/CodeForces.dir/Other/U._Float_or_int.cpp.obj	3592c61011b9547
+14	1600	7941543385130859	CMakeFiles/CodeForces.dir/Other/T._Shape2.cpp.obj	10922f27cc4d19c1
 18	1612	7931227885821596	CMakeFiles/CodeForces.dir/Other/V._Comparison.cpp.obj	3eb270b8dd067aec
 1	1536	7931234732287835	CMakeFiles/CodeForces.dir/Other/K._Max_and_Min.cpp.obj	d334420bedc091b2
-1537	1618	7931234747652379	CodeForces.exe	adc360361f02dd0f
+44	2589	7941416992431887	CMakeFiles/CodeForces.dir/Other/Q._Coordinates_of_a_Point.cpp.obj	84e8b062a8839e58
+14	1708	7941457426957462	CMakeFiles/CodeForces.dir/Other/T._Sort_Numbers.cpp.obj	2927c34b8ca6457e
+2	1638	7941460493848913	CMakeFiles/CodeForces.dir/Other/W._Mathematical_Expression_.cpp.obj	9c68ddef0af8e239
+12	1625	7941544868261178	CMakeFiles/CodeForces.dir/Other/W._Shape3.cpp.obj	2d5c852d19800802
+15	180	7941547744283441	build.ninja	836381e86094d143
+15	180	7941547744283441	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
