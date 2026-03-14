@@ -63,9 +63,9 @@ build CMakeFiles/CodeForces.dir/tester.cpp.obj: CXX_COMPILER__CodeForces_unscann
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir
 
-build CMakeFiles/CodeForces.dir/Other/U._Is_B_a_subsequence_of_A_.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/Other/U.$ Is$ B$ a$ subsequence$ of$ A$ .cpp || cmake_object_order_depends_target_CodeForces
+build CMakeFiles/CodeForces.dir/Other/W._Mirror_Array.cpp.obj: CXX_COMPILER__CodeForces_unscanned_Debug E$:/CodeForces/Other/W.$ Mirror$ Array.cpp || cmake_object_order_depends_target_CodeForces
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\CodeForces.dir\Other\U._Is_B_a_subsequence_of_A_.cpp.obj.d
+  DEP_FILE = CMakeFiles\CodeForces.dir\Other\W._Mirror_Array.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CodeForces.dir
   OBJECT_FILE_DIR = CMakeFiles\CodeForces.dir\Other
@@ -78,7 +78,7 @@ build CMakeFiles/CodeForces.dir/Other/U._Is_B_a_subsequence_of_A_.cpp.obj: CXX_C
 #############################################
 # Link the executable CodeForces.exe
 
-build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/tester.cpp.obj CMakeFiles/CodeForces.dir/Other/U._Is_B_a_subsequence_of_A_.cpp.obj
+build CodeForces.exe: CXX_EXECUTABLE_LINKER__CodeForces_Debug CMakeFiles/CodeForces.dir/00_Checker.cpp.obj CMakeFiles/CodeForces.dir/tester.cpp.obj CMakeFiles/CodeForces.dir/Other/W._Mirror_Array.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
