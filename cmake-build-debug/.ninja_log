@@ -1,10 +1,10 @@
 # ninja log v6
-15	192	7951887294722725	build.ninja	836381e86094d143
+15	192	7952779014993317	build.ninja	836381e86094d143
 3	1629	7912160563660554	CMakeFiles/CodeForces.dir/M._Capital_or_Small_or_Digit.cpp.obj	e751e039a37409ff
-1681	1764	7951886627275977	CodeForces.exe	7907dbe56b040735
+1692	1786	7951888351815104	CodeForces.exe	572eedb3550039fb
 20	2108	7911454535693350	CMakeFiles/CodeForces.dir/D._Difference.cpp.obj	ae1ca7af03cb936d
 17	66	7910661563607182	CMakeFiles/CodeForces.dir/00_Checker.cpp.obj	e34a18b17f74d271
-15	192	7951887294702313	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
+15	192	7952779014973533	E:/CodeForces/cmake-build-debug/cmake_install.cmake	836381e86094d143
 3	1624	7910662184117342	CMakeFiles/CodeForces.dir/C._Simple_Calculator.cpp.obj	58e153e316736a16
 19	67	7910661563640526	CMakeFiles/CodeForces.dir/tester.cpp.obj	de0cd9f253dcdfd0
 17	2029	7931217811304624	CMakeFiles/CodeForces.dir/Other/U._Float_or_int.cpp.obj	3592c61011b9547
@@ -27,4 +27,3 @@
 15	1784	7951020291886135	CMakeFiles/CodeForces.dir/Other/V._Frequency_Array.cpp.obj	61ba4666fb7fe80b
 3	1746	7951027333005124	CMakeFiles/CodeForces.dir/Other/U._Is_B_a_subsequence_of_A_.cpp.obj	a42b20ad3bf207aa
 1	1690	7951888334908873	CMakeFiles/CodeForces.dir/Other/W._Mirror_Array.cpp.obj	fe85b24a44c8ce04
-1692	1786	7951888351815104	CodeForces.exe	572eedb3550039fb
