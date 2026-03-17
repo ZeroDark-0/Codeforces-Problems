@@ -8,7 +8,7 @@ from datetime import datetime
 ROOT = r"E:\CodeForces"
 SOURCE_FOLDERS = ["A", "B", "C", "D"]
 
-DRY_RUN = True          # True = only print planned actions
+DRY_RUN = False          # True = only print planned actions
 COPY_INSTEAD_OF_MOVE = True   # True = copy files, False = move files
 MAKE_BACKUP = True      # Backup original folders before real run
 
