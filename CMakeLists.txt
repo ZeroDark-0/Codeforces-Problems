@@ -4,7 +4,7 @@ project(CodeForces)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(CodeForces "00 Checker.cpp"
-#        "Tester.cpp"
-        "800/2227A. Koshary.cpp"
+        "Tester.cpp"
+
 
 )

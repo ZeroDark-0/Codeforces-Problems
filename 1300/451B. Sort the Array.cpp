@@ -14,7 +14,7 @@ int main() {
     }
     int l = 0;
     while(l + 1 < n && v[l] <= v[l + 1])
-        l++;
+        l++;~
 
     int r = n - 1;
     while(r - 1 >= 0 && v[r - 1] <= v[r])
