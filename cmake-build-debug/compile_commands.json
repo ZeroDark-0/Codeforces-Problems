@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/CodeForces/cmake-build-debug",
+  "command": "\"E:\\Jetbrains\\Clion\\CLion 2024.1.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\CodeForces.dir\\00_Checker.cpp.obj -c \"E:\\CodeForces\\00 Checker.cpp\"",
+  "file": "E:/CodeForces/00 Checker.cpp",
+  "output": "E:/CodeForces/cmake-build-debug/CMakeFiles/CodeForces.dir/00_Checker.cpp.obj"
+},
+{
+  "directory": "E:/CodeForces/cmake-build-debug",
+  "command": "\"E:\\Jetbrains\\Clion\\CLion 2024.1.3\\bin\\mingw\\bin\\g++.exe\" -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\CodeForces.dir\\Tester.cpp.obj -c E:\\CodeForces\\Tester.cpp",
+  "file": "E:/CodeForces/Tester.cpp",
+  "output": "E:/CodeForces/cmake-build-debug/CMakeFiles/CodeForces.dir/Tester.cpp.obj"
+}
+]
